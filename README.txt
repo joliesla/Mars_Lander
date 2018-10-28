@@ -7,4 +7,4 @@ an IDE was not available. Running the .exe will perform the integration and inpu
 and plotted in orb.xlsx. If training is turned on, data will be inserted into improve.txt and extracted by improvement.xlsx
 to find the ideal values of the control parameters. The program is created to work with a second planet.
 
-I personally used world.bat to run my simulations but if you have a C++ IDE, opening the .cpp file and running it should do the job.
+I personally use world.bat to run my simulations but if you have a C++ IDE, opening the .cpp file and running it should do the job.
